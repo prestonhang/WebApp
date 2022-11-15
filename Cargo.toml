@@ -1,5 +1,5 @@
 [package]
-name = "app"
+name = "WebApp"
 version = "0.1.0"
 authors = ["Preston Hang"]
 edition = "2021"
